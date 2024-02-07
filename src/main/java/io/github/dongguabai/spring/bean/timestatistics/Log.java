@@ -1,4 +1,4 @@
-package blog.dongguabai.spring.bean.timestatistics;
+package io.github.dongguabai.spring.bean.timestatistics;
 
 /**
  * @author dongguabai

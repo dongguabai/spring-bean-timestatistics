@@ -1,4 +1,4 @@
-package blog.dongguabai.spring.bean.timestatistics;
+package io.github.dongguabai.spring.bean.timestatistics;
 
 import net.bytebuddy.implementation.bind.annotation.RuntimeType;
 import net.bytebuddy.implementation.bind.annotation.SuperCall;
